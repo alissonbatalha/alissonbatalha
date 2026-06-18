@@ -44,6 +44,11 @@ Aqui está a animação da cobrinha baseada no histórico de desenvolvimento do 
   <img src="https://raw.githubusercontent.com/alissonbatalha/alissonbatalha/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="100%" />
 </div>
 
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/alissonbatalha/alissonbatalha/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ### 📫 Vamos conversar sobre o seu próximo projeto?
