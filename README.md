@@ -14,10 +14,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=90&lines=Ol%C3%A1%2C+eu+sou+o+Alisson+Batalha!+%F0%9F%91%8B;Desenvolvedor+Front-End+Freelancer+%F0%9F%92%BB;Landing+Pages+de+Alta+Convers%C3%A3o+%F0%9F%93%88;Mobile-First+%26+Metodologia+BEM+%F0%9F%93%B1" alt="Typing SVG" />
-</div>
-
 <div align="center">🚀 Alisson Batalha</div>
 
 <div align="center">Web Developer • Freelancer • AI Enthusiast
