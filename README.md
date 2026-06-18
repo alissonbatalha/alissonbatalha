@@ -98,9 +98,13 @@ Front-End
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alissonbatalha&theme=tokyo-night&hide_border=true"/></div>---
 
-🏆 Conquistas GitHub | GitHub Trophies
+## 🚀 Principais Tecnologias | Main Technologies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=alissonbatalha&theme=tokyonight&row=1&column=7"/></div>---
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+
+</div>
 
 🐍 Snake Contributions
 
