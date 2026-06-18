@@ -18,8 +18,6 @@
 
 <div align="center">Web Developer • Freelancer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web+Freelancer;Freelance+Web+Developer;Criando+Sites+Modernos;Building+Modern+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+Python" /><br><img src="https://komarev.com/ghpvc/?username=alissonbatalha&label=Profile%20Views&color=0e75b6&style=for-the-badge" /><img src="https://img.shields.io/github/followers/alissonbatalha?style=for-the-badge&logo=github" /></div>---
-
 🇧🇷 Sobre Mim
 
 Olá! Sou Alisson Batalha, desenvolvedor web freelancer apaixonado por tecnologia, design e criação de soluções digitais.
